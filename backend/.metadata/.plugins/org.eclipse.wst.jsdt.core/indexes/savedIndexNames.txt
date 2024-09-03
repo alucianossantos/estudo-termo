@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Alex Luciano\Documents\NetBeansProjects\Termo\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3932286254.index
+1979903010.index
+1372508680.index
+3662148968.index
+4200077000.index
+3073402455.index
